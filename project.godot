@@ -27,10 +27,9 @@ GlobalsInjector="*res://Framework/globals_injector.gd"
 
 [display]
 
-window/size/viewport_width=424
+window/size/viewport_width=320
 window/size/viewport_height=240
-window/stretch/mode="canvas_items"
-window/stretch/aspect="expand"
+window/stretch/mode="viewport"
 display_server/driver.linuxbsd="x11"
 
 [editor]
